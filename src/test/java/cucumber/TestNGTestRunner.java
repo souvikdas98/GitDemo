@@ -26,4 +26,9 @@ public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 		
 		
 	}
+	
+	public void QuickPrint()
+	{
+		System.out.println("quick prinitng machine");
+	}
 }
