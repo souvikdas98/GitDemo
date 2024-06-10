@@ -31,4 +31,14 @@ public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 	{
 		System.out.println("quick prinitng machine");
 	}
+	
+	public void IOS()
+	{
+		System.out.println("quick prinitng machine");
+	}
+	
+	public void Android()
+	{
+		System.out.println("quick prinitng machine");
+	}
 }
