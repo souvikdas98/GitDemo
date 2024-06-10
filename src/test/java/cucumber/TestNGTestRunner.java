@@ -41,4 +41,8 @@ public class TestNGTestRunner extends AbstractTestNGCucumberTests {
 	{
 		System.out.println("quick prinitng machine");
 	}
+	public void Symbian()
+	{
+		System.out.println("quick prinitng machine");
+	}
 }
